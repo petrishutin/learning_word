@@ -1,0 +1,6 @@
+fastapi~=0.111.0
+uvicorn
+langchain
+langchain_openai
+ruff
+pydantic~=2.7.4
